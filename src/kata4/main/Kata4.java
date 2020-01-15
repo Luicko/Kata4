@@ -19,7 +19,7 @@ public class Kata4 {
     }
 
     public static void main(String[] args) {
-        Kata4 kata4 = new Kata4("email");
+        Kata4 kata4 = new Kata4("emails.txt");
         kata4.execute();
     }
 
